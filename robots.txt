@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cadael.com.br/sitemap.xml
